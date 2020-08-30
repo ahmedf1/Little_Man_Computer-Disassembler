@@ -14,10 +14,10 @@ INS_REF = {
     1: "ADD",
     2: "SUB",
     3: "STA",
-    5: "LDA",
-    6: "BRA",
-    7: "BRZ",
-    8: "BRP"
+    4: "LDA",
+    5: "BRA",
+    6: "BRZ",
+    7: "BRP"
 }
 
 def disassemble(operation_code):
